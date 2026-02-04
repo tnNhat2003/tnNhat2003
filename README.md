@@ -4,6 +4,11 @@
   </a>
 </div>
 
+<div align="center">
+  <b>Final Year Electronics and Telecommunications | University of Science - VNU HCMC</b>
+</div>
+<br/>
+
 # 📝 About Me
 
  **Name:** **Nhat Tran Nguyen**
