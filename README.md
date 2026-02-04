@@ -1,20 +1,4 @@
-<div align="center">
-<pre>
-  _   _  _              _     _______                   
- | \ | || |            | |   |__   __|                  
- |  \| || |__    __ _  | |_     | |  _ __  __ _  _ __ 
- | . ` || '_ \  / _` | | __|    | | | '__|/ _` || '_ \ 
- | |\  || | | || (_| | | |_     | | | |  | (_| || | | |
- |_| \_||_| |_| \__,_|  \__|    |_| |_|   \__,_||_| |_|
-                                                       
-      >> RTL DESIGN | EMBEDDED SYSTEMS | FIRMWARE <<
-</pre>
-</div>
-
-<div align="center">
-  <b>Final Year Electronics and Telecommunications | University of Science - VNU HCMC</b>
-</div>
-<br/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:2b5c8a&height=250&section=header&text=Nhat%20Tran&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Embedded%20%26%20Chip%20Design%20Enthusiast&descAlignY=60&descSize=25&fontColor=ffffff)
 
 # 💫 About Me
 
