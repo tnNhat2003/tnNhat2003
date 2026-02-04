@@ -1,15 +1,23 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:2b5c8a&height=250&section=header&text=Nhat%20Tran&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Embedded%20%26%20Chip%20Design%20Enthusiast&descAlignY=60&descSize=25&fontColor=ffffff)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=435&lines=Hello,+I'm+Nhat+Tran!;Future+RTL+Design+Engineer;Embedded+Systems+Developer;Verilog+%7C+C/C%2B%2B+%7C+SoC" alt="Typing SVG" />
+  </a>
+</div>
 
 # 💫 About Me
 
-🔭 **I’m currently working on:** Final year student in Electronics and Telecommunications, focusing on Computer - Embedded Systems.
+ **Name:** Nhat Tran Nguyen
 
-🌱 **I’m currently learning:** Deepening my knowledge in RTL Design, Design Verification (DV), and Embedded Software development.
+ **I’m currently working on:** Final year student in Electronics and Telecommunications, focusing on Computer - Embedded Systems.
+
+ **I’m currently learning:** Deepening my knowledge in RTL Design, Design Verification (DV), and Embedded Software development.
 
 ### 📫 How to reach me
 <a href="https://www.linkedin.com/in/nhat-tran-nguyen-853ba82b5/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
+**Email:** nhattran39865@gmail.com
 
 <br/>
 
