@@ -7,9 +7,7 @@
 # 📝 About Me
 
  **Name:** Nhat Tran Nguyen
-
  **I’m currently working on:** Final year student in Electronics and Telecommunications, focusing on Computer - Embedded Systems.
-
  **I’m currently learning:** Deepening my knowledge in RTL Design, Design Verification (DV), and Embedded Software development.
 
 ### 📫 How to reach me
