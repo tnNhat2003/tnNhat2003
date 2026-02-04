@@ -1,7 +1,14 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=435&lines=Hello,+I'm+Nhat+Tran!;Future+RTL+Design+Engineer;Embedded+Systems+Developer;Verilog+%7C+C%2B%2B+%7C+SoC" alt="Typing SVG" />
-  </a>
+<pre>
+  _   _  _              _     _______                   
+ | \ | || |            | |   |__   __|                  
+ |  \| || |__    __ _  | |_     | |  _ __  __ _  _ __ 
+ | . ` || '_ \  / _` | | __|    | | | '__|/ _` || '_ \ 
+ | |\  || | | || (_| | | |_     | | | |  | (_| || | | |
+ |_| \_||_| |_| \__,_|  \__|    |_| |_|   \__,_||_| |_|
+                                                       
+      >> RTL DESIGN | EMBEDDED SYSTEMS | FIRMWARE <<
+</pre>
 </div>
 
 <div align="center">
