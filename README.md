@@ -4,6 +4,11 @@
   </a>
 </div>
 
+<div align="center">
+  <b>Final Year Electronics and Telecommunications | University of Science - VNU HCMC</b>
+</div>
+<br/>
+
 # 💫 About Me:
 🔭 I’m currently working on: Final year student in Electronics and Telecommunications, focusing on Computer - Embedded Systems.<br>🌱 I’m currently learning: Deepening my knowledge in RTL Design, Design Verification (DV), and Embedded Software development.<br>📫 How to reach me: [LinkedIn :https://www.linkedin.com/in/nhat-tran-nguyen-853ba82b5/ ]
 
