@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# 💫 About Me
+# 📝 About Me
 
  **Name:** Nhat Tran Nguyen
 
@@ -23,7 +23,7 @@
 
 # 💻 Tech Stack
 
-### 🛠️ Programming Languages
+###  Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%23555555.svg?style=flat&logo=verilog&logoColor=white)
@@ -31,16 +31,16 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=flat&logo=MATHWORKS&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
-### 🧰 Tools & Frameworks
+###  Tools & Frameworks
 ![Quartus](https://img.shields.io/badge/Intel%20Quartus-0071C5?style=flat&logo=intel&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-123456?style=flat&logo=siemens&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 📊 Data Science & Others
+###  Data Science & Others
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
