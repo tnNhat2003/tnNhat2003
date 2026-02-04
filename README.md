@@ -6,7 +6,7 @@
 
 # 📝 About Me
 
- **Name:** Nhat Tran Nguyen
+ **Name:** **Nhat Tran Nguyen**
  
  **I’m currently working on:** Final year student in Electronics and Telecommunications, focusing on Computer - Embedded Systems.
  
