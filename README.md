@@ -9,23 +9,17 @@
 </div>
 <br/>
 
-<div align="center">
-
 # 💫 About Me
-</div>
 
 🔭 **I’m currently working on:** Final year student in Electronics and Telecommunications, focusing on Computer - Embedded Systems.
 
 🌱 **I’m currently learning:** Deepening my knowledge in RTL Design, Design Verification (DV), and Embedded Software development.
-
-<div align="center">
 
 ### 📫 How to reach me
 <a href="https://www.linkedin.com/in/nhat-tran-nguyen-853ba82b5/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<br/>
 <br/>
 
 # 💻 Tech Stack
@@ -38,17 +32,13 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=flat&logo=MATHWORKS&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-### ⚙️ Embedded & Hardware
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![Digital Logic](https://img.shields.io/badge/Digital_Logic-000000?style=flat&logo=expertsexchange&logoColor=white)
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
 ### 🧰 Tools & Frameworks
 ![Quartus](https://img.shields.io/badge/Intel%20Quartus-0071C5?style=flat&logo=intel&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-123456?style=flat&logo=siemens&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### 📊 Data Science & Others
@@ -63,5 +53,3 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=tnNhat2003&theme=tokyonight&hide_border=false" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnNhat2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-</div>
