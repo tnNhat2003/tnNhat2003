@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-**Email:** nhattran39865@gmail.com
+**Email:** trannguyennhat.eng@gmail.com
 
 <br/>
 
