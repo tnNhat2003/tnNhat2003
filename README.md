@@ -23,7 +23,7 @@
 </a>
 
 **Email:** trannguyennhat.eng@gmail.com
-**My Paper Cv at: ** https://drive.google.com/file/d/1vsC_d8xCdFzvtQdEg5E23RbLra6ONYVl/view?usp=sharing
+**My Paper Cv at:** https://drive.google.com/file/d/1vsC_d8xCdFzvtQdEg5E23RbLra6ONYVl/view?usp=sharing
 
 <br/>
 
