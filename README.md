@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/tnNhat2003/tnNhat2003@main/Smooth%20Moonwalk%20Character%20Loop.gif" alt="Animated Moonwalk Banner" width="250" />
+  <img src="Smooth%20Moonwalk%20Character%20Loop.gif" alt="Animated Moonwalk Banner" width="250" />
   
   <a href="https://github.com/readme-typing-svg/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=435&lines=Hello,+I'm+Nhat+Tran!;RTL+%7C+DV+%7C+Embedded+System&v=3" alt="Nhat Tran's Typing Greeting" />
