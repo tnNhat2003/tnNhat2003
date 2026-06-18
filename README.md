@@ -26,7 +26,7 @@
 
 **Email:** trannguyennhat.eng@gmail.com
 
-**My Paper CV at:** [View My CV](https://drive.google.com/file/d/1vsC_d8xCdFzvtQdEg5E23RbLra6ONYVl/view?usp=sharing)
+**My Paper CV at:** [View My CV](https://drive.google.com/file/d/1QFrIefaK36ZTWEQizegj_z5peFP4cHH0/view?usp=sharing)
 
 <br/>
 
