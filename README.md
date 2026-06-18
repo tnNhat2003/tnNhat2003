@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Sửa lại đường dẫn src này thành link file GIF của bạn sau khi upload lên GitHub -->
-  <img src="Smooth Moonwalk Character Loop.gif" alt="Moon Walk Banner" width="250" />
+  <img src="Smooth Moonwalk Character Loop.gif" alt="Animated Moonwalk Banner" width="250" />
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=Hello,+I'm+Nhat+Tran+👋;RTL+%7C+DV+%7C+Embedded+System" alt="Typing SVG" />
+  <a href="https://github.com/readme-typing-svg/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&background=00000000&center=true&width=435&lines=Hello,+I'm+Nhat+Tran+👋;RTL+%7C+DV+%7C+Embedded+System" alt="Nhat Tran's Typing Greeting" />
   </a>
 </div>
 
